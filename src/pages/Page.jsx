@@ -1,7 +1,6 @@
 import { useParams } from "react-router";
 import Shop from "./Shop";
 import Cart from "./Cart";
-import Navbar from "./Navbar";
 import ErrorPage from "./ErrorPage";
 
 const Page = () => {
